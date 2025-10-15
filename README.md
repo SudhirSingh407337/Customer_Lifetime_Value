@@ -11,6 +11,10 @@ This project focuses on **predicting Customer Lifetime Value (CLV)** using advan
 
 ## 📊 Dataset
 
+[![CLV Prediction: Dataset](https://img.youtube.com/vi/F4r0ITd13AM/0.jpg)](https://youtu.be/F4r0ITd13AM)
+
+[CLV Prediction: Dataset](https://youtu.be/F4r0ITd13AM)
+
 The dataset (`customer_segmentation.csv`) contains transaction records with the following features:
 
 - **CustomerID**: Unique identifier for each customer
