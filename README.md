@@ -41,6 +41,10 @@ The dataset (`customer_segmentation.csv`) contains transaction records with the 
 
 ### 2. RFM Analysis
 
+[![CLV Prediction: Aggregation Features & RFM Analysis](https://img.youtube.com/vi/SL3_PGvClr4/0.jpg)](https://youtu.be/SL3_PGvClr4)
+
+[CLV Prediction: Aggregation Features & RFM Analysis](https://youtu.be/SL3_PGvClr4)
+
 - **Recency**: Days since the last purchase
 - **Frequency**: Number of unique invoices per customer
 - **Monetary**: Total spend per customer
@@ -50,7 +54,7 @@ The dataset (`customer_segmentation.csv`) contains transaction records with the 
 
 [![CLV Prediction: Time-Based Feature Engineering](https://img.youtube.com/vi/bdiqexoGyGY/0.jpg)](https://youtu.be/bdiqexoGyGY)
 
-- [CLV Prediction: Time-Based Feature Engineering](https://youtu.be/bdiqexoGyGY)
+[CLV Prediction: Time-Based Feature Engineering](https://youtu.be/bdiqexoGyGY)
 
 
 - **Monthly Aggregation**: Calculating monthly spending patterns
