@@ -48,6 +48,11 @@ The dataset (`customer_segmentation.csv`) contains transaction records with the 
 
 ### 3. Time-Based Feature Engineering
 
+[![CLV Prediction: Time-Based Feature Engineering](https://img.youtube.com/vi/bdiqexoGyGY/0.jpg)](https://youtu.be/bdiqexoGyGY)
+
+- [CLV Prediction: Time-Based Feature Engineering](https://youtu.be/bdiqexoGyGY)
+
+
 - **Monthly Aggregation**: Calculating monthly spending patterns
 - **Purchase Intervals**: Average time between purchases
 - **Additional Features**: Maximum monthly spend, average monthly spend, and spending standard deviation
