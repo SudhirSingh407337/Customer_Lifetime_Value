@@ -63,6 +63,10 @@ The dataset (`customer_segmentation.csv`) contains transaction records with the 
 
 ### 4. Advanced Feature Engineering
 
+[![CLV Prediction: Advanced Feature Engineering](https://img.youtube.com/vi/5SlDxOkHLuI/0.jpg)](https://youtu.be/5SlDxOkHLuI)
+
+[CLV Prediction: Advanced Feature Engineering](https://youtu.be/5SlDxOkHLuI)
+
 - **Log Transformations**: Handling skewed monetary and frequency data
 - **Outlier Handling**: Capping extreme values at the 99th percentile
 - **Feature Scaling**: RobustScaler for outlier-resistant scaling
