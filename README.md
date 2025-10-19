@@ -73,6 +73,10 @@ The dataset (`customer_segmentation.csv`) contains transaction records with the 
 
 ### 5. Model Training & Evaluation
 
+[![CLV Prediction: Model Training & Evaluation](https://img.youtube.com/vi/6NX_eiO2UOg/0.jpg)](https://youtu.be/6NX_eiO2UOg)
+
+[CLV Prediction: Model Training & Evaluation](https://youtu.be/6NX_eiO2UOg)
+
 - **Multi-Algorithm Approach**:
   - **Ridge Regression**: Regularized linear model for numerical stability
   - **Random Forest**: Ensemble model for capturing non-linear relationships
